@@ -48,9 +48,8 @@ We've experimented with a range of object detection models:
 
 ## Baseline Results
 
-We established baseline performance on the unchallenged dataset (no blur, darkness, or noise) using mAP50 and mAP50:95 metrics. We then evaluated model performance under various challenging conditions and degrees of severity.
-
-We also analyzed the degradation in performance under severe challenges, particularly for YOLOv5, YOLOv8, and Faster R-CNN (Table 3).  Overall, performance degradation ranged from 0.5% to 6%, with the highest variation observed in Faster R-CNN.
+We established baseline performance on the unchallenged dataset (no blur, darkness, or noise) using mAP50 and mAP50:95 metrics. We then evaluated model performance under various challenging conditions and degrees of severity. 
+We also analyzed the degradation in performance under severe challenges, particularly for YOLOv5, YOLOv8, and Faster R-CNN.  Overall, performance degradation ranged from 0.5% to 6%, with the highest variation observed in Faster R-CNN.
 
 ## Getting Started
 
